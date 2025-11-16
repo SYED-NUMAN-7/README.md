@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning AI/ML and Web Frameworks
-
+Passionate about Coding
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noman-hassan-66a2b0339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomanull789@gmail.com) 
